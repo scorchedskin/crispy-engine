@@ -1,6 +1,7 @@
 body {
   background-image: url"C:\Users\588607\Downloads\gif.gif";
+  background-repeat: no-repeat;
   padding: 110px; 
-  color: #800000;
+   color: #800000;
   }
 

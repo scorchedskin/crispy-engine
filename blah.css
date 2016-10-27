@@ -4,5 +4,8 @@ body {
    color: #800000;
   }
 h1 {
-  font-size: 25px;
+  font-size: 2.5em; 
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
 }

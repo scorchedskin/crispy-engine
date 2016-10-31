@@ -11,3 +11,7 @@ h1 {
   font-family:
   font-family: "Times New Roman", Times, serif;
 }
+p {
+  height: 100%;
+  width: 60%;
+}

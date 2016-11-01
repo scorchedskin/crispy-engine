@@ -17,7 +17,11 @@ p {
 }
 #experimental-psychology-header {
   border-top: 1px solid #b9afaf;
+  margin-top: 20px;
+  padding-top: 40px
 }
 #developmental-psychology-header {
-  margin-top: 20px solid #b9afaf;
+  border-top: 1px solid #b9afaf;
+  margin-top: 20px;
+  padding-top: 40px;
 }

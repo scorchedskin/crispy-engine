@@ -14,30 +14,9 @@ h1 {
 
 p {
   width:40%
-}
-#experimental-psychology-header {
+ }
+.class {
   border-top: 2px solid #ffcc81;
-  margin-top: 15px;
-  padding-top: 15px;
-   
-}
-#developmental-psychology-header {
-  border-top: 2px solid #ffcc81;
-  margin-top: 15px;
-  padding-top: 15px;
-}
-#cognitive-psychology-header {
-  border-top: 2px solid #ffcc81;
-  margin-top: 15px;
-  padding-top: 15px;
-}
-#clinical-psychology-header {
-  border-top: 2px solid #ffcc81;
-  margin-top: 15px;
-  padding-top: 15px;
-}
-#biopsyhcology-studies-header {
-   border-top: 2px solid #ffcc81;
   margin-top: 15px;
   padding-top: 15px;
 }

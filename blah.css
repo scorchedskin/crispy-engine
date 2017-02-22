@@ -3,6 +3,12 @@ body {
    padding: 110px; 
    color: #800000;
   }
+.wrapper{
+display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 10px;
+  color: #444;
+}
 h1 {
   font-size: 2.5em; 
   text-align: center;
